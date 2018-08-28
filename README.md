@@ -6,6 +6,13 @@
 #### this is a H4 sized header
 
 
+Steps to life
+1. Take IOS App Dev
+2. Learn thing
+3. ???
+4. Profit
+
+
 A review of Starship troopers
 <https://www.youtube.com/watch?v=sGF81Z1Kols>
 
